@@ -1,0 +1,13 @@
+@media screen and (max-width:420px){
+    nav a {
+        display: inline-block;
+        margin: 0 8px 15px;
+}
+}
+#all {
+    width: 96%;
+    margin: 10px auto;
+    border-bottom: 1px solid #ddd;
+    overflow: hidden;
+    padding: 10px;
+}
